@@ -28,7 +28,7 @@ public class Main {
             }case SUNDAY -> {
                 System.out.print("Жекшемби ");
                 week.day();
-            }default -> System.out.println("Сиз берген кун жок");
+            }
         }
     }
 
